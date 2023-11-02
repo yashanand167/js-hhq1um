@@ -1,0 +1,20 @@
+h1, h2 {
+  font-family: Lato;
+}
+.grey{
+  background-color: rgb(165, 164, 164);
+}
+.Black{
+  background-color: black;
+  color: aliceblue;
+}
+.Blue{
+  background-color: blue;
+  color: aliceblue;
+}
+.Yellow{
+  background-color: yellow;
+}
+.canva{
+  background-color: pink;
+}
